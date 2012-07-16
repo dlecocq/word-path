@@ -1,0 +1,4 @@
+data/*
+driver.dSYM/*
+*.txt
+driver
